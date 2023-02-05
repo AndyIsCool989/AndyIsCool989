@@ -1,3 +1,3 @@
-Hello, I'm Andy
-Java and Python 
-Peddie 2025
+Hello, I'm Andy. 
+I primarily code in Java.  
+Peddie Class of 2025
